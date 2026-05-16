@@ -1,0 +1,26 @@
+# --- Cartelle di Build (Compilazione) ---
+build/
+build-*/
+CMakeLists.txt.user
+
+# --- File temporanei di CMake ---
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# --- Output di Android ---
+android-build/
+*.apk
+*.aab
+
+# --- File di sistema e IDE ---
+.qmake.stash
+.qtcreator/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
