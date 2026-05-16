@@ -1,4 +1,4 @@
-![ScreenShot dell'applicazione](photos/img1.jpg)
+<img src="photos/img1.jpg" alt="ScreenShot dell'applicazione" width="300">
 
 # ESP32 BLE Stereo Manager
 
